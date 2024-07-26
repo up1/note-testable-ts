@@ -6,7 +6,7 @@
 $npm init -y
 ```
 
-Install depednencies
+Install dependencies
 ```
 $npm install --save-dev typescript jest ts-jest @types/jest
 ```
